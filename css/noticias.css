@@ -1,0 +1,26 @@
+#caja{
+    margin-left: 5%;
+    margin-right: 5%;
+    width: 80%;
+    background-color: coral;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+#titulo2{
+    color: darkslategray;
+}
+
+#texto{
+    color: aliceblue;
+    line-height: 30px;
+}
+
+#caja2{
+    margin-left: 5%;
+    margin-right: 5%;
+    width: 80%;
+    background-color: rgb(255, 165, 132);
+    padding: 20px;
+    border-radius: 10px;
+}
